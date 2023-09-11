@@ -8,6 +8,7 @@ The application reads the PDF and splits the text into smaller chunks that can b
 
 The application uses Streamlit to create the GUI and Langchain to deal with the LLM.
 
+Note: Langchain supports a lot of others VectorDbs too available in market like Pinecone, Milvus, chroma, weaviate, Qdrant.
 
 ## Installation
 
